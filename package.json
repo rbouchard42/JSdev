@@ -3,17 +3,17 @@
   , "version": "0.0.1"
   , "author": "Rémi Bouchard"
   , "description": ""
-  , "license": "MIT",
+  , "license": "MIT"
   , "keyword": ["JSDev", "developer", "preprocessor"]
   , "homepage": "https://github.com/rbouchard42/jsdev"
   , "bug": {
-        "url": "https://github.com/rbouchard42/jsdev/issues"
-      , "email": "bouchard.remi@yahoo.fr"
+      "url": "https://github.com/rbouchard42/jsdev/issues",
+      "email": "bouchard.remi@yahoo.fr"
     }
   , "files": ["index.js", "jsdev.js"]
   , "repository" : {
-        "type" : "git"
-      , "url" : "https://github.com/rbouchard42/jsdev.git"
+      "type" : "git",
+      "url" : "https://github.com/rbouchard42/jsdev.git"
     }
   , "devDependencies": {
         "babel-cli": "6.16.0",
