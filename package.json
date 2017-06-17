@@ -1,21 +1,28 @@
 {
-    "name": "Js Dev"
-  , "version": "0.0.1"
-  , "author": "Rémi Bouchard"
-  , "description": ""
-  , "license": "MIT"
-  , "keyword": ["JSDev", "developer", "preprocessor"]
-  , "homepage": "https://github.com/rbouchard42/jsdev"
-  , "bug": {
-      "url": "https://github.com/rbouchard42/jsdev/issues",
-      "email": "bouchard.remi@yahoo.fr"
-    }
-  , "files": ["index.js", "jsdev.js"]
-  , "repository" : {
-      "type" : "git",
-      "url" : "https://github.com/rbouchard42/jsdev.git"
-    }
-  , "devDependencies": {
+    "name": "JsDev",
+    "version": "0.0.1",
+    "author": "Rémi Bouchard",
+    "description": "",
+    "license": "MIT",
+    "keyword": [
+        "JSDev",
+        "developer",
+        "preprocessor"
+    ],
+    "homepage": "https://github.com/rbouchard42/jsdev",
+    "bug": {
+        "url": "https://github.com/rbouchard42/jsdev/issues",
+        "email": "bouchard.remi@yahoo.fr"
+    },
+    "files": [
+        "index.js",
+        "jsdev.js"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rbouchard42/jsdev.git"
+    },
+    "devDependencies": {
         "babel-cli": "6.16.0",
         "babel-core": "6.17.0",
         "babel-loader": "6.2.5",
